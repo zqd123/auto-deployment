@@ -7,12 +7,15 @@
 - 选择“Build & Deploy”来构建您的项目并将其部署到远程服务器。
 - 选择“仅部署”以将项目构建目录部署到远程服务器。
 
-![image](https://github.com/user-attachments/assets/9ab37575-4060-4dcc-9f99-ecee04a6d957)
+![image](https://github.com/user-attachments/assets/701bece0-a702-4dc1-9412-4fa20cc1fb1b)
+
 
 
 命令选项板中的命令：
 
-![image](https://github.com/user-attachments/assets/68a983fa-54ad-436a-bc1b-ef28ab701a0e)
+![image](https://github.com/user-attachments/assets/e54bfe3d-8a1d-4508-8967-4579bcbf96ef)
+
+
 
 
 ## 扩展插件设置
