@@ -1,5 +1,5 @@
 {
-  "publisher": "snail",
+  "publisher": "snail-mr",
   "name": "auto-deployment",
   "displayName": "Auto Deployment",
   "type": "commonjs",
